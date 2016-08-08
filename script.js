@@ -1,3 +1,5 @@
 $(function(){
-	// cool
+	$('div').on('click', function(){
+		console.log('Neato!!!');
+	});
 });
